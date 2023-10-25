@@ -145,7 +145,7 @@
         height: 22vh;
     }
     #page1 h1{
-        font-size: 13vh;
+        font-size: 12vh;
         font-family:canopee;
         font-weight: 100;
         background-color: #1C1C19;
@@ -222,11 +222,11 @@
         width: 100%;
     }
     #page3 h1{
-        font-size: 143px;
-        letter-spacing: 2px;
-        margin-left: 1px;
-        line-height: 150px;
-        padding:0 2px ;
+        font-size: 21.5vh;
+        letter-spacing: 0.2vh;
+        margin-left: 0.1vh;
+        line-height: 22.4vh;
+        padding:0 0.2vh ;
     }
     #page3 img{
         height: 0;
@@ -240,7 +240,7 @@
     #page4-left{
         width: 100%;
         height: 100%;
-        padding: 20px;
+        padding: 3vh;
         align-items: center;
     }
     #page4-left img{
@@ -256,14 +256,14 @@
         font-size: 0;
     }
     #anda h1{
-        padding-right:50px ;
-        font-size: 60px;
+        padding-right:7.4vh;
+        font-size: 9vh;
     }
     #page5 h1{
-        font-size: 50px;
+        font-size: 7.4vh;
     }
     #page6 p{
-        font-size: 34px;
+        font-size: 5vh;
     }
     
 }
